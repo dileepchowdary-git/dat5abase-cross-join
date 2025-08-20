@@ -1,0 +1,3 @@
+# Ignore credentials/config files
+db_config.py
+.env
