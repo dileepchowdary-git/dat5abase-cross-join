@@ -1,5 +1,3 @@
-# sync_pg_ch.py
-
 import psycopg2
 from psycopg2.extras import RealDictCursor
 from clickhouse_driver import Client as CHClient
